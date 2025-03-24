@@ -59,3 +59,4 @@ if __name__ == "__main__":
         resultado.append(estado_inicial)
         resultado.reverse()  
         print(resultado)
+        ##

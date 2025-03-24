@@ -79,3 +79,5 @@ async def buscar_solucion(request: BusquedaRequest):
         return {"camino": resultado}
     
     return {"mensaje": "No se encontró solución"}
+
+##
