@@ -59,5 +59,5 @@ class Nodo:
     def set_hijos(self, *hijos):
         self.hijos.extend(hijos)
 
-        ##
+        
         

@@ -80,4 +80,3 @@ async def buscar_solucion(request: BusquedaRequest):
     
     return {"mensaje": "No se encontró solución"}
 
-##
